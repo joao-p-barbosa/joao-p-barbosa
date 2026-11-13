@@ -9,11 +9,16 @@
 
 ### 🛠 Sobre mim
 
-Na **Fadel Transportes e Logística** saí de ajudante para supervisor. Liderei a operação de distribuição com cerca de 240 motoristas e 12 pessoas no monitoramento, e depois, como Supervisor de Desenvolvimento, construí mais de 30 dashboards em Power BI, Excel e SQL, com foco em dados confiáveis para a tomada de decisão.
+Desenvolvo sistemas web com PHP, JavaScript e SQL, depois de 7 anos em operação logística e análise de dados com Power BI.
 
-Hoje desenvolvo sistemas web com PHP, JavaScript e SQL. Curso **Análise e Desenvolvimento de Sistemas** na Descomplica (conclusão prevista em 2028), estou estudando **Laravel** e uso agentes de IA (Claude Code) no dia a dia, sempre revisando e testando o código gerado.
+Tenho interesse especial por:
 
-Busco minha primeira vaga como desenvolvedor júnior, onde eu possa somar a visão de negócio e de dados ao desenvolvimento.
+- Desenvolvimento web full stack
+- Bancos de dados e SQL
+- Dados e indicadores para tomada de decisão
+- Automação de processos
+
+Curso Análise e Desenvolvimento de Sistemas e busco minha primeira vaga como desenvolvedor júnior.
 
 ---
 
@@ -35,16 +40,6 @@ Busco minha primeira vaga como desenvolvedor júnior, onde eu possa somar a vis�
 </p>
 
 Dados: **Power BI**, **Excel** e **SQL** · Em estudo: **Laravel**
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.shion.dev/api?username=joao-p-barbosa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub" />
-  <img src="https://streak-stats.demolab.com/?user=joao-p-barbosa&theme=tokyonight&hide_border=false" alt="Sequência de contribuições" /><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=joao-p-barbosa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas" />
-</p>
 
 ---
 
